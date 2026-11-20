@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1032242048422",
+    "project_id": "encryptor-80076",
+    "storage_bucket": "encryptor-80076.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032242048422:android:c87de96b56461e98edf367",
+        "android_client_info": {
+          "package_name": "com.shamim.encryptor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2L9FPsEO3vQJCLJJHbLPZA90lkpeCg4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

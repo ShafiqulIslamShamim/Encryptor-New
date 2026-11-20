@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <shortcut
+        android:shortcutId="open_main"
+        android:enabled="true"
+        android:icon="@drawable/ic_shortcut_settings"
+        android:shortcutShortLabel="@string/shortcut_main_short"
+        android:shortcutLongLabel="@string/shortcut_main_long">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.shamim.encryptor"
+            android:targetClass="com.shamim.encryptor.MainActivity">
+            <extra android:name="shortcut_target" android:value="home" />
+        </intent>
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+
+    <shortcut
+        android:shortcutId="open_settings"
+        android:enabled="true"
+        android:icon="@drawable/ic_shortcut_main"
+        android:shortcutShortLabel="@string/shortcut_settings_short"
+        android:shortcutLongLabel="@string/shortcut_settings_long">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.shamim.encryptor"
+            android:targetClass="com.shamim.encryptor.MainActivity">
+            <extra android:name="shortcut_target" android:value="settings" />
+        </intent>
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+
+</shortcuts>

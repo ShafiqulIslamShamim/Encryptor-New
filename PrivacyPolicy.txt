@@ -1,0 +1,76 @@
+# Encryptor – Privacy Policy
+
+Effective Date: July 23, 2026
+Contact: shafiqulislamshamimofficial@gmail.com
+
+Encryptor respects your privacy and is committed to protecting your personal information. This Privacy Policy explains what data is collected, how it is used, and your rights as a user.
+
+---
+
+Intended Users
+
+Encryptor is intended for users aged 16 and older, including developers, security-conscious users, and tech enthusiasts. The app is not designed for children.
+
+---
+
+Information We Collect
+
+Encryptor does not collect, store, or transmit any personal or sensitive user data such as your name, email, private encryption keys, or converted text content.
+
+To ensure stability and diagnose technical issues, Encryptor collects anonymous diagnostic data and crash logs via Firebase Analytics and Crashlytics as outlined in Section 6 below.
+
+The app may also generate a local log file only when you manually enable logging, which remains on your device unless you explicitly share it.
+
+---
+
+Required Private Key
+
+Encryptor requires a user-defined private key for encrypting and decrypting text in Encryption modes.
+
+- This key is never stored on external servers or transmitted across networks.
+- There is no login, user account, or remote database storing your keys.
+- You are solely responsible for remembering your key to decrypt previously encrypted content.
+
+---
+
+Internet Access
+
+Encryptor uses an internet connection to check for app updates and to transmit anonymous crash logs and stability metrics to Firebase Analytics & Crashlytics.
+
+---
+
+Third-Party Services & Analytics (Firebase)
+
+Encryptor integrates Firebase Analytics and Firebase Crashlytics (operated by Google LLC) to monitor application stability, analyze crash reports, and improve performance.
+
+- Diagnostic Data Collected: Anonymous crash stack traces, device hardware model, Android OS version, app version, and aggregated usage metrics.
+- Data Privacy & Security: Firebase Analytics and Crashlytics DO NOT access, inspect, or record your private keys, plain text inputs, encrypted output, or personal identity.
+- Other Libraries: Encryptor uses trusted open-source libraries (e.g., AndroidX, Material Components) for standard Android UI and app capabilities.
+
+---
+
+Data Sharing
+
+Encryptor does not sell, rent, or share personal data with third parties.  
+Anonymous diagnostic data and crash stack traces are processed through Google Firebase services solely to fix bugs, prevent crashes, and enhance app performance.
+
+---
+
+Children’s Privacy
+
+Encryptor is not intended for children under 16.  
+We do not knowingly collect any personal data from minors.
+
+---
+
+Changes to This Policy
+
+This Privacy Policy may be updated occasionally. Changes will be posted within the app or on this page.
+
+---
+
+Contact Us
+
+If you have any questions or concerns regarding this policy, feel free to contact:
+
+📧 shafiqulislamshamimofficial@gmail.com
